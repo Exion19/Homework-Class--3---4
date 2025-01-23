@@ -3,5 +3,11 @@
 }
 
 body {
-    background-color: beige;
+    background-color: rgb(245, 245, 220);
+}
+
+img {
+    margin: 20px;
+    width: 300px;
+    display: block;
 }

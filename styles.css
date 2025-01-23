@@ -6,8 +6,9 @@ body {
     background-color: rgb(245, 245, 220);
 }
 
-img {
+.img {
     margin: 20px;
     width: 300px;
+    height: 400px;
     display: block;
 }

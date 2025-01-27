@@ -11,3 +11,7 @@ body {
     height: 50%;
 }
 
+.text{
+    font-size: 60px;
+    font-family: "Roboto", serif;
+}

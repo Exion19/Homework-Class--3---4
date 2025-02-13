@@ -1,17 +1,40 @@
 .InitialTittle{
-    color: rgb(173, 0, 52)
+    color: rgb(0, 0, 0)
+    justify-content: center;
+}
+
+.subtitles {
+    display: flex;
+    gap: 1000px; 
+}
+
+.subtitle {
+    margin: 10;
 }
 
 body {
     background-color: rgb(245, 245, 220);
 }
 
-.img {
-    width: 50%;
-    height: 50%;
+.inline {
+ display: inline-block;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .text{
-    font-size: 60px;
+    font-size: 20px;
     font-family: "Roboto", serif;
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    font-size: 10px;
 }
